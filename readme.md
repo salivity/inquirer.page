@@ -3,6 +3,7 @@
 This is the sitemap for the website gizmos.page
 
 https://inquirer.page/article/unzipper-app-the-online-zip-tool
+
 https://inquirer.page/article/mastering-webmconverter-app
 https://inquirer.page/article/bulk-url-opening-made-easy
 https://inquirer.page/article/guide-to-imagedownloader-website
